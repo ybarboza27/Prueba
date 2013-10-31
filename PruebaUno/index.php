@@ -7,7 +7,7 @@
     <body>
         <?php
         
-        echo('hola mundo');
+        echo('hola perro');
         
         ?>
     </body>
